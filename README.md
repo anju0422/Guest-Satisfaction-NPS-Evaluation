@@ -1,1 +1,0 @@
-# Survey-Analysis-using-NumPy
